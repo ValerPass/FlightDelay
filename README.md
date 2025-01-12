@@ -12,8 +12,8 @@ c. Permettere all’utente di selezionare, da un menu a tendina, due aeroporti p
 d. Alla pressione del bottone “Test Connessione”:
 • verificare se è possibile raggiungere l’aeroporto di arrivo a partire da quello di partenza;
 • stampare un possibile percorso (se esiste) tra i due aeroporti.
-oppure
-Permettere all’utente di inserire un numero di compagnie aeree minino x, e di selezionare il bottone “Analizza aeroporti”.
+(((OPPURE)))
+a. Permettere all’utente di inserire un numero di compagnie aeree minino x, e di selezionare il bottone “Analizza aeroporti”.
 b. Alla pressione del bottone, creare un grafo che
 rappresenti gli aeroporti su cui operano più
 compagnie.
